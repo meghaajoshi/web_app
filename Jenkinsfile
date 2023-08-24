@@ -5,7 +5,7 @@ pipeline{
             steps{
                 script {
                     
-                    git 'https://github.com/meghaajoshi/webapp.git'
+                    git 'https://github.com/meghaajoshi/web_app.git'
                 }
             }
         }
